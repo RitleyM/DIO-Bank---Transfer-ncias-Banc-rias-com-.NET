@@ -1,0 +1,15 @@
+C:\Users\ritle\Desktop\Projetos\DIO\DIO.Bank\bin\Debug\net6.0\DIO.Bank.exe
+C:\Users\ritle\Desktop\Projetos\DIO\DIO.Bank\bin\Debug\net6.0\DIO.Bank.deps.json
+C:\Users\ritle\Desktop\Projetos\DIO\DIO.Bank\bin\Debug\net6.0\DIO.Bank.runtimeconfig.json
+C:\Users\ritle\Desktop\Projetos\DIO\DIO.Bank\bin\Debug\net6.0\DIO.Bank.dll
+C:\Users\ritle\Desktop\Projetos\DIO\DIO.Bank\bin\Debug\net6.0\DIO.Bank.pdb
+C:\Users\ritle\Desktop\Projetos\DIO\DIO.Bank\obj\Debug\net6.0\DIO.Bank.csproj.AssemblyReference.cache
+C:\Users\ritle\Desktop\Projetos\DIO\DIO.Bank\obj\Debug\net6.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritle\Desktop\Projetos\DIO\DIO.Bank\obj\Debug\net6.0\DIO.Bank.AssemblyInfoInputs.cache
+C:\Users\ritle\Desktop\Projetos\DIO\DIO.Bank\obj\Debug\net6.0\DIO.Bank.AssemblyInfo.cs
+C:\Users\ritle\Desktop\Projetos\DIO\DIO.Bank\obj\Debug\net6.0\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Users\ritle\Desktop\Projetos\DIO\DIO.Bank\obj\Debug\net6.0\DIO.Bank.dll
+C:\Users\ritle\Desktop\Projetos\DIO\DIO.Bank\obj\Debug\net6.0\refint\DIO.Bank.dll
+C:\Users\ritle\Desktop\Projetos\DIO\DIO.Bank\obj\Debug\net6.0\DIO.Bank.pdb
+C:\Users\ritle\Desktop\Projetos\DIO\DIO.Bank\obj\Debug\net6.0\DIO.Bank.genruntimeconfig.cache
+C:\Users\ritle\Desktop\Projetos\DIO\DIO.Bank\obj\Debug\net6.0\ref\DIO.Bank.dll
